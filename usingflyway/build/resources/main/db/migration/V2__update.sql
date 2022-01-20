@@ -1,0 +1,1 @@
+INSERT INTO topmovielist(name,genre,rating) VALUES ('godfather1','gangster','9'),('lordoftherings1','fantasy','8'),('before','romance','8'),('interstellar','sci-fi','9');
